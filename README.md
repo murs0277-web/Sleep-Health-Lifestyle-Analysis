@@ -50,27 +50,27 @@ All correlation coefficients are close to zero, indicating no meaningful linear 
 
 **Distribution of Sleep Quality**
 
-![Distribution of Sleep Quality](plot/Rplot03.png)
+![Distribution of Sleep Quality](plots/Rplot03.png)
 
 **Distribution of Sleep Disorders**
 
-![Distribution of Sleep Disorders](plot/Rplot02.png)
+![Distribution of Sleep Disorders](plots/Rplot02.png)
 
 **Stress Level by Gender**
 
-![Stress Level by Gender](plot/Rplot01.png)
+![Stress Level by Gender](plots/Rplot01.png)
 
 **Physical Activity Level by BMI Category**
 
-![Physical Activity Level by BMI](plot/Rplot.png)
+![Physical Activity Level by BMI](plots/Rplot.png)
 
 **Physical Activity Level vs Sleep Duration**
 
-![Physical Activity Level and Sleep Duration](plot/Rplot04.png)
+![Physical Activity Level and Sleep Duration](plots/Rplot04.png)
 
 ## 📂 Files
 - `sleep_health_factors.R` — full analysis code
-- `plot/` — folder containing all generated graphs
+- `plots/` — folder containing all generated graphs
 
 ## 🚀 How to Run
 1. Install R and RStudio
