@@ -69,7 +69,7 @@ All correlation coefficients are close to zero, indicating no meaningful linear 
 ![Physical Activity Level and Sleep Duration](plots/Rplot04.png)
 
 ## 📂 Files
-- `sleep_health_factors.R` — full analysis code
+-  [`sleep_health_factors.R`](sleep_health_factors.R) — full analysis code
 - `plots/` — folder containing all generated graphs
 
 ## 🚀 How to Run
