@@ -84,3 +84,9 @@ All correlation coefficients are close to zero, indicating no meaningful linear 
 ## 📌 Note
 The original code contains a hardcoded local path (`setwd("D:/R")`), which should be updated to match your own machine's folder structure.
 
+## 👤 Author
+
+**MD. Mursalin**  
+BSc Data Science and Analytics Student  
+[GitHub](https://github.com/murs0277-web)
+
