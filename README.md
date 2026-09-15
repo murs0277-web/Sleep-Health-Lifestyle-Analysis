@@ -4,7 +4,7 @@ An exploratory data analysis (EDA) project in R examining the relationships betw
 
 ## 📊 Dataset
 
-This project uses the [Sleep Health and Lifestyle Dataset](sleep_health_lifestyle_dataset_.xlsx), which contains information on sleep duration, quality, stress levels, physical activity, and other lifestyle factors.
+This project uses the [Sleep Health and Lifestyle Dataset](sleep_health_lifestyle_dataset.xlsx), which contains information on sleep duration, quality, stress levels, physical activity, and other lifestyle factors.
 
 ## 🎯 Project Objective
 Using the Sleep Health & Lifestyle dataset to explore how sleep quality and duration relate to factors such as age, occupation, stress level, physical activity, and BMI.
